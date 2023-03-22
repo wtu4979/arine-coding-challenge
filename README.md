@@ -1,4 +1,7 @@
 ﻿# Arine Coding Challenge
  
  
-run python coding-challenge.py
+Run program:
+```
+python coding-challenge.py
+```
